@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34312.44
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConf-2023", "DotNetConf-2023\DotNetConf-2023.csproj", "{BC5CDA3E-7B88-4DF8-805E-A47C2CC6270E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetConf-2023", "DotNetConf-2023\DotNetConf-2023.csproj", "{BC5CDA3E-7B88-4DF8-805E-A47C2CC6270E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyFeature", "KeyFeature\KeyFeature.csproj", "{3955A7B6-BF53-4321-93B2-EBFCDF80228C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BC5CDA3E-7B88-4DF8-805E-A47C2CC6270E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5CDA3E-7B88-4DF8-805E-A47C2CC6270E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5CDA3E-7B88-4DF8-805E-A47C2CC6270E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3955A7B6-BF53-4321-93B2-EBFCDF80228C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3955A7B6-BF53-4321-93B2-EBFCDF80228C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3955A7B6-BF53-4321-93B2-EBFCDF80228C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3955A7B6-BF53-4321-93B2-EBFCDF80228C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
